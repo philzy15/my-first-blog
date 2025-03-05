@@ -1,0 +1,4 @@
+Last step: https://tutorial.djangogirls.org/en/deploy/
+
+user supes
+pass souporsalad
