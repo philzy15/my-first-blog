@@ -2,3 +2,8 @@ Last step: https://tutorial.djangogirls.org/en/deploy/
 
 user supes
 pass souporsalad
+
+Python anywhere
+philzy15
+$..0
+
